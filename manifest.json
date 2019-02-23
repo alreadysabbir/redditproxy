@@ -1,0 +1,12 @@
+{
+  "name": "Reddit Proxy",
+  "version": "1.0",
+  "description": "Access redit thorugh proxy server.",
+  "author": "Sabbir Ahmed",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["proxy"],
+  "manifest_version": 2
+}
